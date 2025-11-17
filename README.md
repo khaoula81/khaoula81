@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+plan de ma formation:
+- créer ma page
 <!--
 **khaoula81/khaoula81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
